@@ -1,0 +1,41 @@
+# README
+
+This project include a virtualized infrastructure as following :
+- A Django server (web backend)
+ 
+## Requirements
+OS:	Ubuntu 20.04 LTS
+RAM:	4GB
+CPU:	4 core
+Disk:	100GB to 1TB (if the database is largeur than 1TB, expect some latency)
+Ports: 
+- 80, 443, for HTTP/HTTPS for access to the application
+- 51623, for direct access to the PostgreSQL database
+
+First clone the repository and clone submodule
+$# git clone <repository>
+ 
+  
+### Development install
+* Create a virtualenv and install Django project
+
+
+* python3 -m venv env 
+
+Activate env
+* source env/bin/activate
+* pip instal -r requirements.txt 
+
+* python manage.py runserver
+
+
+# if any issue with database you can delete db.sqlite3 file
+# and create empty file with same name after that run:-
+
+* python manage.py migrate
+* python manage.py runserver
+
+
+ 
+
+

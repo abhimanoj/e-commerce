@@ -1,0 +1,211 @@
+@charset "utf-8";
+/* CSS Document */
+
+a,
+.cat-list li a:hover,
+.btn-style-four .txt,
+.shop-list li a,
+.list-style-one li .icon,
+.popular-posts .post a:hover,
+.list-style-two li:before,
+.services-block-two .inner-box h4 a:hover,
+.services-block-two .inner-box .read-more:hover,
+.services-section-three .content-column .bold-text,
+.main-header .outer-box .cart-box .cart-panel .btns-boxed li a:hover,
+.main-header .outer-box .cart-product .inner .cross-icon:hover,
+.main-header .outer-box .cart-product .inner h3 a:hover,
+.main-menu .navigation > li > ul > li > ul > li > a:before,
+.main-menu .navigation > li > ul > li > ul > li:hover > a,
+.main-slider .owl-nav .owl-prev:hover,
+.main-slider .owl-nav .owl-next:hover,
+.services-block .inner-box h3 a:hover,
+.business-section .content-column .title,
+.gallery-item .overlay-inner .link:hover,
+.featured-block .inner-box h3 a:hover,
+.main-menu .navigation > li > ul > li > a:before,
+.main-menu .navigation > li > ul > li:hover > a,
+.gallery-item .inner-box .lower-content h4 a:hover,
+.main-header .btn-box .quote-btn,
+.social-icon-one li a:hover,
+.mobile-menu .navigation li.current > a,
+.mobile-menu .navigation li > a:hover,
+.cart-table tbody tr .remove-btn,
+.main-footer .footer-list li a:hover,
+.faq-block .inner-box .icon,
+.news-block-three .inner-box .lower-content .lower-box .read-more:hover,
+.news-block-three .inner-box .lower-content h4 a:hover,
+.service-block-three .inner-box .icon-box,
+.featured-block-two .inner-box .content .icon-box,
+.fact-counter-two .column .inner .count-outer,
+.testimonial-block-four .inner-box .quote,
+.checkout-page .default-links li a,
+.coming-soon .emailed-form .form-group input[type="submit"],
+.coming-soon .emailed-form button,
+.broucher-widget .widget-content h4,
+.broucher-widget .widget-content .icon,
+.news-post-detail .post-meta li,
+.blog-author-box .social-icon li a:hover,
+.sidebar-page-container .comments-area .comment-box .theme-btn,
+.news-post-detail .text-block ul li:before,
+.help-widget .widget-content .help-list li .icon,
+.services-detail .inner-box .lower-content h4,
+.coming-soon .emailed-form .form-group input[type="submit"]:hover,
+.coming-soon .emailed-form button:hover,
+.video-section-two .inner-container .video-box-two .image .video-content .play-box span,
+.business-section-two .content-column .business-list li strong:before,
+.news-block .inner-box .lower-content .lower-box .read-more:hover,
+.updated-gallery-block .inner-box .lower-content .link .read-more,
+.news-block .inner-box .lower-content h4 a:hover,
+.broucher-widget.style-two .widget-content .icon,
+.contact-page-section .info-column ul li .icon,
+.project-widget .widget-content .project-info-list li span,
+.updated-gallery-block .inner-box:hover .lower-content .box h4 a,
+.projects-detail .inner-box .lower-content .text h4,
+.news-post-detail .lower-info .related-tags li a,
+.news-post-detail .lower-info .share-post li a:hover,
+.news-block-four .inner-box .lower-content h4 a:hover,
+.shop-page .prod-tabs .add-review .rating .rate-box:hover,
+.shop-page .prod-tabs .add-review .rating .rate-box:focus,
+.shop-page .prod-tabs .add-review .rating .rate-box:active,
+.news-block-four .inner-box .lower-content .author-box .box-inner,
+.updated-gallery-block .inner-box:hover .lower-content .box .icon-box{
+	color:#4fc6a0;
+}
+
+/* Background Color */
+
+.btn-style-two,
+.sec-title .title,
+.app-section,
+.checkout-btn,
+.blog-author-box,
+.pricing-section-three,
+.call-to-action-section,
+.cart-table .cart-header,
+.btn-style-one:before,
+.search-popup .close-search,
+.gallery-section .owl-dots .owl-dot.active,
+.gallery-section .owl-dots .owl-dot:hover,
+.gallery-item .overlay-inner .link,
+.news-block .inner-box .image,
+.accordion-box .block .icon-outer,
+.featured-block-two .inner-box:before,
+.gallery-item .overlay-inner .link:hover::before,
+.subscribe-form .form-group input[type="submit"],
+.subscribe-form .form-group button,
+.service-block-three .inner-box:before,
+.signup-form .form-group .send-btn,
+.price-block-three .inner-box .popular,
+.price-block-three .inner-box .lower-content .buy-btn:hover,
+.header-style-two.fixed-header .btn-box .theme-btn,
+.pricing-block-one .pricing-table .table-content li i,
+.sidebar .service-list li a:before,
+.styled-pagination li.prev a,
+.styled-pagination li.next a,
+.news-block-four .inner-box .category,
+.news-block-four .inner-box:hover .category,
+.news-block-four .inner-box .image,
+.sidebar .popular-tags a:hover,
+.sidebar .instagram-widget .image-box .overlay-box,
+.news-post-detail .content-box .category a,
+.news-post-detail .lower-info .related-tags li a:hover,
+.styled-pagination li.active a, .styled-pagination li:hover a,
+.updated-gallery-block .inner-box .lower-content .link .read-more:before,
+.updated-gallery-block .inner-box .image-box .client-box:hover .client-logo,
+.team-section .owl-dots .owl-dot.active, .team-section .owl-dots .owl-dot:hover,
+.testimonial-section-four .owl-item.active .testimonial-block-four .inner-box .upper-content,
+.main-header .outer-box .cart-box .cart-panel .btns-boxed li a{
+	background-color:#4fc6a0;
+}
+
+.team-block .inner-box .lower-content:before,
+.team-block .inner-box .lower-content:after,
+.video-section .image-layer:before,
+.pricing-section,
+.counter-section,
+.quote-section{
+	background-image: -ms-linear-gradient(top, #4fc6a0 0%, #4db292 100%);
+	background-image: -moz-linear-gradient(top, #4fc6a0 0%, #4db292 100%);
+	background-image: -o-linear-gradient(top, #4fc6a0 0%, #4db292 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4fc6a0), color-stop(100, #4db292));
+	background-image: -webkit-linear-gradient(top, #4fc6a0 0%, #4db292 100%);
+	background-image: linear-gradient(to bottom, #4fc6a0 0%, #4db292 100%);
+}
+
+.main-slider,
+.btn-style-four,
+.btn-style-three,
+.page-title,
+.testimonials-thumbs-carousel,
+.video-section-two .inner-container .video-box-two .image .video-content:before,
+.team-block .inner-box .image .social-box:before{
+	background: #4db292;
+	background: -webkit-linear-gradient(to right, #4db292 0%, #4fc6a0 100%);
+	background: -moz-linear-gradient(to right, #4db292 0%, #4fc6a0 100%);
+	background: linear-gradient(to right, #4db292 0%, #4fc6a0 100%);
+}
+
+.btn-style-three:before{
+	background: #4fc6a0;
+	background: -webkit-linear-gradient(to right, #4fc6a0 0%, #4db292 100%);
+	background: -moz-linear-gradient(to right, #4fc6a0 0%, #4db292 100%);
+	background: linear-gradient(to right, #4fc6a0 0%, #4db292 100%);
+}
+
+.pricing-block-one .pricing-table .table-content li i{
+	box-shadow:0px 5px 10px rgba(77,178,146,0.10);
+}
+
+.banner-section-three .patern-layer-one,
+.banner-section-two .patern-layer-one{
+	filter: grayscale(100%);
+	opacity:0.6;
+}
+
+/*Border Color*/
+.btn-style-one:hover,
+.single-product-item .img-holder,
+.sidebar .popular-tags a:hover,
+.services-block-two .inner-box:hover,
+.sidebar .service-list li a:hover, .sidebar .service-list li.current a,
+.header-style-two.fixed-header .btn-box .theme-btn,
+.price-block-three .inner-box .lower-content .buy-btn:hover,
+.main-header .outer-box .cart-box .cart-panel .btns-boxed li a,
+.main-header .outer-box .cart-box .cart-panel,
+.contact-widget-form .form-group input[type="text"]:focus,
+.contact-widget-form .form-group input[type="password"]:focus,
+.contact-widget-form .form-group input[type="tel"]:focus,
+.contact-widget-form .form-group input[type="email"]:focus,
+.contact-widget-form .form-group select:focus,
+.news-post-detail .lower-info .related-tags li a:hover,
+.contact-widget-form .form-group textarea:focus,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.contact-page-section .info-column ul li .icon,
+.styled-form input:focus, .styled-form select:focus, .styled-form textarea:focus,
+.shop-form input:focus, .shop-form select:focus, .shop-form textarea:focus,
+.cart-section .apply-coupon .form-group input[type="text"],
+.comment-form .form-group textarea:focus{
+	border-color:#4fc6a0;
+}
+
+.back-to-top::after{
+	border-bottom-color:#4fc6a0;
+}
+
+.header-style-two.fixed-header .btn-box .theme-btn:hover{
+	color:#ffffff;
+}
+
+.quote-section:before{
+	filter: grayscale(100%);
+}
+
+/*RGBA Color Dark*/
+
+@media only screen and (max-width: 767px){
+	
+}
